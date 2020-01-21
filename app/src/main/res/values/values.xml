@@ -1,0 +1,5 @@
+<resources>
+    <style name="LibThemes" parent="@style/Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="android:statusBarColor">@color/toolbar_bg</item>
+    </style>
+</resources>
